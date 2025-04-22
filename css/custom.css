@@ -1,3 +1,6 @@
 .logo.anchor-white {
         color: white;
 }
+figcaption {
+    text-align: left;
+}
